@@ -3,7 +3,7 @@
 
 <h3 align="center">"Torture the data, and it will confess to anything."</h3>
 
-<img alt="Night Coding" src="https://github.com/N0R4H/N0R4H/assets/121699726/ea439790-84d1-492d-91c1-3cd7478d1b37" width=100% height="300px" align="center"/>
+<img alt="Night Coding" src="https://github.com/N0R4H/N0R4H/assets/121699726/c8448bde-d71c-4f67-9814-d5f6097b023e" width=100% height="300px" align="center"/>
 
 
 ## About me:
