@@ -14,7 +14,11 @@
     <li>🎯 Committed to continuous learning and pushing the boundaries in the field</li>
     <li>📩 Reach out to me via norahtrz@gmail.com</li>
 </ul>
- 
+
+<img src="https://github.com/N0R4H/N0R4H/assets/121699726/0ab5849b-79d4-4ece-9bc7-2d8fcbd673e6" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/noura-ed-dahby-47998b222)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/norah.bambina)
