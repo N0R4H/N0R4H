@@ -15,7 +15,7 @@
     <li>📩 Reach out to me via norahtrz@gmail.com</li>
 </ul>
 
-<img src="https://github.com/N0R4H/N0R4H/assets/121699726/0ab5849b-79d4-4ece-9bc7-2d8fcbd673e6" height="200px" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/N0R4H/N0R4H/assets/121699726/0ab5849b-79d4-4ece-9bc7-2d8fcbd673e6" height="200px" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 
 
