@@ -6,9 +6,9 @@
 <img alt="Night Coding" src="https://github.com/N0R4H/N0R4H/assets/121699726/ea439790-84d1-492d-91c1-3cd7478d1b37" width=100% height="300px" align="center"/>
 
 
-
-
-
+## About me:
+ A Knowledge Engineering and Data Science student @ESI Rabat, Morocco.<br>
+ 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/noura-ed-dahby-47998b222)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/norah.bambina)
