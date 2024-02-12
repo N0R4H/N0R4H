@@ -4,8 +4,7 @@
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
 
-<img alt="Night Coding" src="https://github.com/N0R4H/N0R4H/assets/121699726/4b909e32-cd6a-4866-a823-f36175924821" width=100% height="300px" align="center"/>
-
+<img alt="Night Coding" src="https://github.com/N0R4H/N0R4H/assets/121699726/ea439790-84d1-492d-91c1-3cd7478d1b37" width=100% height="300px" align="center"/>
 
 
 
