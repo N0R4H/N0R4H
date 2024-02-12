@@ -8,6 +8,11 @@
 
 ## About me:
  A Knowledge Engineering and Data Science student @ESI Rabat, Morocco.<br>
+ <ul>
+    <li>First item</li>
+    <li>📩 Reach out to me via norahtrz@gmail.com</li>
+    <li>Third item</li>
+</ul>
  
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/noura-ed-dahby-47998b222)
