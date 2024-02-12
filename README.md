@@ -4,7 +4,8 @@
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
 
-<img alt="Night Coding" src="C:\Users\LENOVO\Downloads\City Pop Aesthetics — Van Paugam.gif" width=100% height="300px" align="center"/>
+
+![City Pop Aesthetics — Van Paugam](https://github.com/N0R4H/N0R4H/assets/121699726/d1ef1238-02e7-4dfe-854e-c5ff0337aefb)
 
 
 <div align="center" style="margin-bottom:200px">
