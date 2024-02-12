@@ -9,9 +9,10 @@
 ## About me:
  A Knowledge Engineering and Data Science student @ESI Rabat, Morocco.<br>
  <ul>
-    <li>First item</li>
+    <li>🌱 Passionate about exploring the mysteries within data</li>
+    <li>⚡ Interest spans Data Science, Machine Learning, Artificial Intelligence, and Generative AI</li>
+    <li>🎯 Committed to continuous learning and pushing the boundaries in the field</li>
     <li>📩 Reach out to me via norahtrz@gmail.com</li>
-    <li>Third item</li>
 </ul>
  
 ## Connect with me:
