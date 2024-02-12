@@ -4,6 +4,7 @@
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
 
+![GIF from GIFER](https://github.com/N0R4H/N0R4H/assets/121699726/4b909e32-cd6a-4866-a823-f36175924821)
 
 
 
