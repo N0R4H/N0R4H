@@ -5,7 +5,7 @@
 <h4 align="center">- Linus Torvalds -</h4>
 
 
-![City Pop Aesthetics — Van Paugam](https://github.com/N0R4H/N0R4H/assets/121699726/d1ef1238-02e7-4dfe-854e-c5ff0337aefb)
+
 
 
 <div align="center" style="margin-bottom:200px">
