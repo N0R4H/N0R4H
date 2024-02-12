@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hi👋!+I'm+Noura+ED+DAHBY;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 
-<h3 align="center">"Talk is cheap. Show me the code"</h3>
-<h4 align="center">- Linus Torvalds -</h4>
+<h3 align="center">"Torture the data, and it will confess to anything."</h3>
 
 <img alt="Night Coding" src="https://github.com/N0R4H/N0R4H/assets/121699726/ea439790-84d1-492d-91c1-3cd7478d1b37" width=100% height="300px" align="center"/>
 
