@@ -7,8 +7,8 @@
 
 
 ## About me:
- A Knowledge Engineering and Data Science student @ESI Rabat, Morocco.<br>
  <img src="https://github.com/N0R4H/N0R4H/assets/121699726/0ab5849b-79d4-4ece-9bc7-2d8fcbd673e6" height="300px" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+  A Knowledge Engineering and Data Science student @ESI Rabat, Morocco.<br>
  <ul>
     <li>🌱 Passionate about exploring the mysteries within data</li>
     <li>⚡ Interest spans Data Science, Machine Learning, Artificial Intelligence, and Generative AI</li>
