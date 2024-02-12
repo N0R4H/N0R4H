@@ -10,3 +10,11 @@
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0R4H&layout=compact&theme=radical" />
 </div>
 
+## Contact me:
+<div>
+<a href="https://www.instagram.com/norah.trz/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: norahtrz@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/noura-ed-dahby-47998b222/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
