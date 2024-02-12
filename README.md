@@ -14,10 +14,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/norah.bambina)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/noraahtr_z)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/B4MB1NA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/norah.trz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/norahtrz/) 
-    
-
-
-<img alt="Night Coding" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
 
 ## Languages and Tools:
 <div >
